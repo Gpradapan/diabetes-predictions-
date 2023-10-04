@@ -1,8 +1,8 @@
 # diabetes-predictions-
-*Problem Definition:*
+#Problem Definition:#
 Developing an AI system to predict diabetes risk using machine learning algorithms, enabling early risk assessment and personalized preventive measures for individuals.
 
-*Design Thinking:*
+#Design Thinking:*
 1. **Data Collection:** Gather medical data (glucose levels, blood pressure, BMI, etc.) along with diabetes status information.
 2. **Data Preprocessing:** Clean, normalize, and prepare medical data for machine learning model training.
 3. **Feature Selection:** Identify relevant features influencing diabetes risk prediction.
